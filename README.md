@@ -14,4 +14,4 @@ There is an increasing need for infrastructure that provides a solid foundation 
 We are committed to building this infrastructure in open-source - in collaboration with a quickly growing community of sophisticated companies, infrastructure teams, data scientists, and ML engineers. We invite you to [join our community](http://slack.outerbounds.co/) to learn more, get support for Metaflow, and participate in [using](http://docs.metaflow.org/) and [building](https://github.com/netflix/metaflow) modern, human-centric ML infrastructure. Also, if this vision resonates with you, we are [hiring](https://outerbounds.com/workwithus).
 
 
-- [The Outerbounds Team](https://www.linkedin.com/search/results/people/?currentCompany=%5B%2274108311%22%5D)
+-[The Outerbounds Team](https://www.linkedin.com/search/results/people/?currentCompany=%5B%2274108311%22%5D)
