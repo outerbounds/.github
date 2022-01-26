@@ -1,4 +1,4 @@
-# Outerbounds
+# Welcome To Outerbounds 👋
 
 ## Building the modern, human-centric ML infrastructure stack.
 
